@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @charklie
+- 🌱 I’m currently learning Swift (but not for use in iOS)
+- ⚡ Fun fact: I'm a very lazy both person and developer.
