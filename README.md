@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @charklie
-- 🌱 I'm fluent in Python and Swift, currently learning Go.
+- 🌱 I'm fluent in Python, C, C++ and Swift, currently learning Go.
 - ⚡ Fun fact: I'm a very lazy both person and developer.
