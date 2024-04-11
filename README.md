@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charklie
-- 🌱 I'm fluent in Python and Swift, currently learning Rust.
+- 🌱 I'm fluent in Python and currently learning Rust.
 - ⚡ Fun fact: I'm a very lazy both person and developer.
 
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charklie&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
