@@ -7,4 +7,3 @@
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charklie&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=charklie&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=charklie&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charklie&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
